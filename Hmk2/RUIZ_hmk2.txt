@@ -1,0 +1,17 @@
+Ricardo Ruiz Rodriguez
+
+                    Homework 2
+
+1. 
+
+2.  Created program to decrypt Vigenere Cipher. The program takes in a command (1 for Encrypt, 2 for Decrypt),
+    the desired text, and for decryption it asks for the number of keys you wish to try. It then loops through
+    the keys and decrypts the text provided with each key that can then be output to a file. This is a sort of
+    brute force attempt at decryption and allows the user to provide the dictionary.
+
+    Key found: investment
+    Plaintext: normally_vigenere_is_challenging_to_break_but_since_i_gave_you_both_a_list_of_possible_keywords_
+               and_something_to_look_for_in_the_plaintext_you_should_be_able_to_automate_this_get_the_key_and_
+               then_decrypt_it_so_i_dont_need_to_give_you_a_ton_of_ciphertext.
+
+3.  
